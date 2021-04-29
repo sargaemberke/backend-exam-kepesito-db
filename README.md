@@ -22,7 +22,9 @@ Például:
 
 A `JurassicPark` osztály, konstruktor paraméterekben kapja meg az adatbázis eléréshez szükséges adatokat.
 
-Készítsd el a `checkOverpopulation` metódust! A `checkOverpopulation` metódus feladata, hogy térjen vissza azoknak a fajtáknak a nevével, amiknél a valós létszám magasabb, mint az elvárt (a fenti példában a Maiasaurus, a Velociraptor és a Hypsilophodontida), ABC szerint növekvő sorrendben.
+Készítsd el a `checkOverpopulation` metódust! A `checkOverpopulation` metódus feladata, 
+hogy térjen vissza azoknak a fajtáknak a nevével, amiknél a valós létszám magasabb, mint az elvárt
+(a fenti példában a Maiasaurus, a Velociraptor és a Hypsilophodontida), ABC szerint növekvő sorrendben.
 
 Ha az adatbázis üres, akkor a metódus térjen vissza üres listával.
 
